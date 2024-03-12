@@ -1,0 +1,23 @@
+.navOuterContainer{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #645CFF;
+}
+
+.navInnerContainer{
+    width: 70%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  
+}
+
+.cart{
+   font-size: 30px;
+   color: white;
+   display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
